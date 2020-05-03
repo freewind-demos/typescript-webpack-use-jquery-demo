@@ -3,7 +3,7 @@
     "demo": "webpack-serve --open"
   },
   "dependencies": {
-    "jquery": "^3.3.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
