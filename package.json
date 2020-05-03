@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "dev": "webpack-serve --open",
-    "pack": "webpack --display-modules"
+    "demo": "webpack-serve --open"
   },
   "dependencies": {
     "jquery": "^3.3.1"

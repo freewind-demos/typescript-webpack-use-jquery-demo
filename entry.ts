@@ -1,5 +1,3 @@
-import * as _ from 'jquery'
-
-declare const $: JQueryStatic
+import $ from 'jquery';
 
 $('#main').text('Hello! (from index.ts)')
